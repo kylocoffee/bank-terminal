@@ -1,0 +1,6 @@
+{
+  "name": "Bank BRI Interbank Treasury Terminal",
+  "description": "PT Bank Rakyat Indonesia (Persero) Tbk - Enterprise Core Banking & Interbank Settlement Workstation for S2S, IP2IP, SWIFT MT103/MT202, ISO 20022, and Nostro-Vostro ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
